@@ -1,9 +1,12 @@
-# Hyde
+# TUCFA on Jekyll and Hyde
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+TUCFA is the Tyndale University College Faculty Association, and <a href="http://tucfa.ca">tucfa.ca</a> is its official website.
+
+The website is based on [@mdo](https://github.com/mdo)'s [Jekyll](http://jekyllrb.com) theme called Hyde, which in turn is based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
+Like the site's HTML and CSS, the description below is by or adapted from [Mark Otto](#author).
 
 ## Contents
 
@@ -13,7 +16,6 @@ Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a pro
   - [Sticky sidebar content](#sticky-sidebar-content)
   - [Themes](#themes)
   - [Reverse layout](#reverse-layout)
-- [Development](#development)
 - [Author](#author)
 - [License](#license)
 
@@ -67,8 +69,6 @@ By default Hyde ships with a sidebar that affixes it's content to the bottom of 
 
 Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
 
-![Hyde in red](https://f.cloud.github.com/assets/98681/1831229/42b0b354-7384-11e3-8462-31b8df193fe5.png)
-
 There are eight themes available at this time.
 
 ![Hyde theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
@@ -94,14 +94,6 @@ Hyde's page orientation can be reversed with a single class.
   ...
 </body>
 ```
-
-
-## Development
-
-Hyde has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be to submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
 
 
 ## Author

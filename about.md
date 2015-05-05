@@ -4,27 +4,18 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  TUCFA is the <a href="http://www.tyndale.ca/university">Tyndale University College</a> Faculty Association, and <a href="http://tucfa.ca">tucfa.ca</a> is its official website.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Purpose of TUCFA
 
-There are currently two themes built on Poole:
+* To advance teaching, scholarship, research, and service within the mission statement of the University College;
+* To represent all employees of the University College who are eligible for full membership in the Association in all matters of employer-employee relations including salaries, pensions, work load, and working conditions;
+* To deal with items of common interest to faculty members relating to the University College or to the broader interests of the academic community;
+* To encourage cooperation between the teaching faculty of this University College and the teaching faculty of other universities, colleges, and seminaries.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<cite>— FA Constitution, approved 17 November 2005</cite>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Website source
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Tucfa.ca is a <a href="{{ site.github.repo }}">GitHub project</a> (currently v{{ site.version }}) served up with [Jekyll](http://jekyllrb.com/) and [Hyde](http://hyde.getpoole.com/).
