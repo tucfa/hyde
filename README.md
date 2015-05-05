@@ -2,11 +2,11 @@
 
 TUCFA is the Tyndale University College Faculty Association, and <a href="http://tucfa.ca">tucfa.ca</a> is its official website.
 
-The website is based on [@mdo](https://github.com/mdo)'s [Jekyll](http://jekyllrb.com) theme called Hyde, which in turn is based on [Poole](http://getpoole.com), the Jekyll butler.
+The website is based on [@mdo](https://github.com/mdo)’s [Jekyll](http://jekyllrb.com) theme called Hyde, which in turn is based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
-Like the site's HTML and CSS, the description below is by or adapted from [Mark Otto](#author).
+Like the site’s HTML and CSS, the description below is by or adapted from [Mark Otto](#author).
 
 ## Contents
 
@@ -32,7 +32,7 @@ Hyde includes some customizable options, typically applied via classes on the `<
 
 ### Sidebar menu
 
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
+Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page’s [front-matter](http://jekyllrb.com/docs/frontmatter/).
 
 ```
 ---
@@ -46,7 +46,7 @@ title: About
 
 ### Sticky sidebar content
 
-By default Hyde ships with a sidebar that affixes it's content to the bottom of the sidebar. You can optionally disable this by removing the `.sidebar-sticky` class from the sidebar's `.container`. Sidebar content will then normally flow from top to bottom.
+By default Hyde ships with a sidebar that affixes it’s content to the bottom of the sidebar. You can optionally disable this by removing the `.sidebar-sticky` class from the sidebar’s `.container`. Sidebar content will then normally flow from top to bottom.
 
 ```html
 <!-- Default sidebar -->
@@ -81,13 +81,13 @@ To use a theme, add anyone of the available theme classes to the `<body>` elemen
 </body>
 ```
 
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/hyde/blob/master/public/css/hyde.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
+To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/hyde/blob/master/public/css/hyde.css). Copy any existing theme (they’re only a few lines of CSS), rename it, and change the provided colors.
 
 ### Reverse layout
 
 ![Hyde with reverse layout](https://f.cloud.github.com/assets/98681/1831230/42b0d3ac-7384-11e3-8d54-2065afd03f9e.png)
 
-Hyde's page orientation can be reversed with a single class.
+Hyde’s page orientation can be reversed with a single class.
 
 ```html
 <body class="layout-reverse">
