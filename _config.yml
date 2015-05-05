@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            tucfa.ca
+title:            'tucfa.ca'
 tagline:          'Faculty Association of Tyndale University College, Toronto'
 description:      'Official website of the Tyndale University College Faculty Association.'
 url:              http://tucfa.ca
