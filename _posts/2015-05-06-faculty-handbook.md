@@ -32,7 +32,7 @@ Block IV
 | June 17 | July 14  | August 11 | August 20 |
  -->
 
-Because <abbr title="Tyndale University College Faculty Association">TUCFA</abbr> leadership would like to see faculty participate in this review to the fullest extent possible, its will post accurate and up-to-date information about the scope and timing of the block sessions here on [tucfa.ca](http://tucfa.ca/).
+Because <abbr title="Tyndale University College Faculty Association">TUCFA</abbr> leadership would like to see faculty participate in this review to the fullest extent possible, it will post accurate and up-to-date information about the scope and timing of the block sessions here on [tucfa.ca](http://tucfa.ca/).
 
 In chronological sequence the 16 scheduled sessions are as follows. If anyone has strong concerns about a particular block, then by all means attend and speak up at multiple sessions for that block.
 
