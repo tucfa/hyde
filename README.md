@@ -2,7 +2,7 @@
 
 TUCFA is the Tyndale University College Faculty Association, and <a href="http://tucfa.ca">tucfa.ca</a> is its official website.
 
-The website is based on [@mdo](https://github.com/mdo)’s [Jekyll](http://jekyllrb.com) theme called Hyde, which in turn is based on [Poole](http://getpoole.com), the Jekyll butler.
+The website is served up with [Jekyll](http://jekyllrb.com/) and [Hyde](http://hyde.getpoole.com/), a Jekyll template based on based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 

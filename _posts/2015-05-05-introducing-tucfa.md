@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello, World!
+title: Introducing tucfa.ca
 ---
 
 Today the Tyndale University College Faculty Association, <abbr title="Tyndale University College Faculty Association">TUCFA</abbr>, announces the launch of its official website, [tucfa.ca](http://tucfa.ca/).
