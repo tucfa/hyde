@@ -88,5 +88,5 @@ In chronological sequence the 16 scheduled sessions are as follows. If anyone ha
 
 Additionally, for those who must miss one or more blocks, HR has offered a "remedial session" to recap the entire Faculty Handbook.
 
-Remedial Session (by confirmed presence only): All sections
+Remedial Session: All sections (3 hrs, by confirmed presence only)
 : Thursday, August 20th, from 9:00 a.m.--12:00 p.m. (Executive Boardroom)
