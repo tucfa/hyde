@@ -1,27 +1,36 @@
 ---
 layout: post
 title: Faculty Handbook Revisions
+date: 19 May 2015
 ---
 
 Tyndale's Board of Governors last approved our joint *Faculty Handbook* on 25 April 2008. This week the President announced a process by which the entire faculty can participate in a major review of the document this summer. Ultimately, the goal is to have the Director of Human Resources present a fully revised *Faculty Handbook* to the Board later in 2015.
 
 Review of the *Faculty Handbook* has been divided into four blocks, with four dates for each block. All faculty members are expected to participate in at least one session from each of the four blocks.
 
-Block I
-: *Introduction, process, and Sections 1 to 8.6 inclusively.*
-: Friday, May 22nd, from 12:30--2:30 pm (Executive Boardroom)
-: Wednesday, May 27th, from 2:00--4:00 pm (Executive Boardroom)
-: Thursday, June 4th, from 9:00--11:00 am (Executive Boardroom)
-: Wednesday, June 10th, from 1:00--3:00 pm (Executive Boardroom)
+Block I: Intro, Sections 1 to 8.6 inclusively (2 hrs)
+: Friday, May 22nd, from 12:30 p.m. (Executive Boardroom)
+: Wednesday, May 27th, from 2:00 p.m. (Executive Boardroom)
+: Thursday, June 4th, from 9:00 a.m. (Executive Boardroom)
+: Wednesday, June 10th, from 1:00 p.m. (Executive Boardroom)
 
-Block II
-: Scope of review and confirmed dates as yet unannounced.
+Block II: Sections 9 to 13.6 inclusively (3 hrs)
+: Thursday, June 11th, from 9:00 a.m. (Executive Boardroom)
+: Tuesday, July 7th, from 10:00 a.m. (Executive Boardroom)
+: Thursday, July 16th, from 1:00 p.m. (Executive Boardroom)
+: Wednesday, July 22nd, from 9:00 a.m. (Executive Boardroom)
 
-Block III
-: Scope of review and confirmed dates as yet unannounced.
+Block III: Sections 14 to 20.3 inclusively (3 hrs)
+: Wednesday, June 17th, from 9:00 a.m. (Executive Boardroom)
+: Friday, July 10th, from 9:00 a.m. (Executive Boardroom)
+: Thursday, July 23rd, from 1:00 p.m. (Executive Boardroom)
+: Tuesday, August 11th, from 10:00 a.m. (Executive Boardroom)
 
-Block IV
-: Scope of review and confirmed dates as yet unannounced.
+Block IV: Sections 21 onwards (3 hrs)
+: Thursday, June 18th, from 9:00 a.m. (Executive Boardroom)
+: Tuesday, July 14th, from 10:00 a.m. (Executive Boardroom)
+: Wednesday, July 29th, from 9:00 a.m. (Executive Boardroom)
+: Thursday, August 13th, from 10:00 a.m. (Executive Boardroom)
 
 <!-- As announced by the President (but changed by Dianna)
 | Block I | Block II | Block III | Block IV  |
@@ -37,24 +46,24 @@ Because <abbr title="Tyndale University College Faculty Association">TUCFA</abbr
 In chronological sequence the 16 scheduled sessions are as follows. If anyone has strong concerns about a particular block, then by all means attend and speak up at multiple sessions for that block.
 
 
-| Date      | Time             | Place               | Block |
-| --------- | ---------------- | ------------------- | ----- |
-| May 22    | 12:30--2:30 p.m. | Executive Boardroom | I     |
-| May 27    | 2:00--4:00 p.m.  | Executive Boardroom | I     |
-| June 4    | 9:00--11:00 a.m. | Executive Boardroom | I     |
-| June 10   | 1:00--3:00 p.m.  | Executive Boardroom | I     |
-| June 11   |                  |                     | II    |
-| June 17   |                  |                     | tba   |
-| June 18   |                  |                     | tba   |
-| July 7    |                  |                     | tba   |
-| July 10   |                  |                     | tba   |
-| July 14   |                  |                     | tba   |
-| July 16   |                  |                     | tba   |
-| July 22   |                  |                     | tba   |
-| July 29   |                  |                     | tba   |
-| August 11 |                  |                     | tba   |
-| August 13 |                  |                     | tba   |
-| August 20 |                  |                     | IV    |
+| Date      | Time                  | Room  | Block |
+| --------- | :-------------------: | :---: | :---: |
+| May 22    | 12:30 p.m.--2:30 p.m. | CH306 | I     |
+| May 27    | 2:00 p.m.--4:00 p.m.  | CH306 | I     |
+| June 4    | 9:00 a.m.--11:00 a.m. | CH306 | I     |
+| June 10   | 1:00 p.m.--3:00 p.m.  | CH306 | I     |
+| June 11   | 9:00 a.m.--12:00 p.m. | CH306 | II    |
+| June 17   | 9:00 a.m.--12:00 p.m. | CH306 | III   |
+| June 18   | 9:00 a.m.--12:00 p.m. | CH306 | IV    |
+| July 7    | 10:00 a.m.--1:00 p.m. | CH306 | II    |
+| July 10   | 9:00 a.m.--12:00 p.m. | CH306 | III   |
+| July 14   | 10:00 a.m.--1:00 p.m. | CH306 | IV    |
+| July 16   | 1:00 p.m.--4:00 p.m.  | CH306 | II    |
+| July 22   | 9:00 a.m.--12:00 p.m. | CH306 | II    |
+| July 23   | 1:00 p.m.--4:00 p.m.  | CH306 | III   |
+| July 29   | 9:00 a.m.--12:00 p.m. | CH306 | IV    |
+| August 11 | 10:00 a.m.--1:00 p.m. | CH306 | III   |
+| August 13 | 10:00 a.m.--1:00 p.m. | CH306 | IV    |
 
 <!-- as initially projected but subject to change
 | Date      | Weekday   | Time         | Block |
@@ -76,3 +85,8 @@ In chronological sequence the 16 scheduled sessions are as follows. If anyone ha
 | August 13 | Thursday  |              | IV    |
 | August 20 | Thursday  |              | IV    |
  -->
+
+Additionally, for those who must miss one or more blocks, HR has offered a "remedial session" to recap the entire Faculty Handbook.
+
+Remedial Session (by confirmed presence only): All sections
+: Thursday, August 20th, from 9:00 a.m.--12:00 p.m. (Executive Boardroom)
