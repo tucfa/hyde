@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tyndale's Public Financial Information"
+title: "Tyndale’s Public Financial Information"
 date: 12 November 2015
 ---
 
