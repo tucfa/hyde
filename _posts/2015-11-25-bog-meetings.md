@@ -63,7 +63,7 @@ an open report to the Board.
 | Board Meeting                       | Corporation AGM |
 | ----------------------------------- | --------------- |
 | Wed., 28 Jan. 2015, 4:00–8:00 PM    |                 |
-| Fri., 28 Mar. 2015, 8:30 AM–3:30 PM |                 |
+| Fri., 27 Mar. 2015, 8:30 AM–3:30 PM |                 |
 | Wed., 3 June 2015, 4:00–8:00 PM     |                 |
 | Fri., 25 Sep. 2015, 8:30 AM–3:30 PM |                 |
 | Wed., 25 Nov. 2015, 4:00–8:00 PM    | 25 Nov. 2015    |
@@ -76,7 +76,7 @@ an open report to the Board.
 | Wed., 5 Apr. 2017, 4:00–8:00 PM     |                 |
 | Wed., 7 June 2017, 4:00–8:00 PM     |                 |
 | Fri., 29 Sep. 2017, 8:30 AM–3:30 PM |                 |
-| Wed., 29 Nov 2017, 4:00–8:00 PM     | 29 Nov. 2017    |
+| Wed., 29 Nov. 2017, 4:00–8:00 PM    | 29 Nov. 2017    |
 
 Note that future meeting may be subject to change. Tyndale is obliged to
 give notice of its Board meetings, so one can either look for its
