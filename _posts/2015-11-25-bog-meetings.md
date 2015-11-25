@@ -30,7 +30,7 @@ and to the public." Further, "no person shall be excluded from a meeting
 except for improper conduct as determined by the board of governors."
 
 The Board Chair does have the right to declare "part of the meeting"
-confidential, and the agenda for tomorrow's meeting states that
+confidential, and the agenda for today's meeting states that
 committee reports from 5:00 PM are to be *in camera*. However,
 hospitality is available from 3:30 PM, so there is a window of
 opportunity become familiar with Tyndale's current Board members, and to
