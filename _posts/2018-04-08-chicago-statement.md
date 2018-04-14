@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: University of Chicago's Statement on Free Expression
 ---
 
