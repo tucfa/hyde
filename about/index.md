@@ -22,4 +22,4 @@ TUCFA's Constitution was originally approved on 17 November 2005, and last amend
 
 ## Website
 
-Tucfa.ca is a <a href="{{ site.github.repo }}">GitHub project</a> (currently v{{ site.version }}) served up with [Jekyll](http://jekyllrb.com/) and [Hyde](http://hyde.getpoole.com/).
+Tucfa.ca is served up with [Jekyll](http://jekyllrb.com/) and [Hyde](http://hyde.getpoole.com/).
