@@ -10,7 +10,7 @@ title:            'tucfa.ca'
 tagline:          'Faculty Association of Tyndale University College, Toronto'
 description:      'Official website of the Tyndale University College Faculty Association.'
 url:              http://tucfa.ca
-baseurl:          /
+baseurl:          /tucfa.github.io/
 
 author:
   name:           'FA Secretary-Treasurer'
