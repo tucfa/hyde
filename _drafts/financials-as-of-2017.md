@@ -4,7 +4,7 @@ title: "Tyndale’s 2017 Public Financial Information"
 date: 15 April 2018
 ---
 
-As we pointed out [previously](http://tucfa.ca/2015/12/10/public-financials-update/), Tyndale University College & Seminary and the Tyndale Foundation are required to file information returns with the the Canada Revenue Agency every year. Below are the Updated numbers as of April 30, 2017 (this post will be updated once the 2018 information is available). Collected data for 2012–2015 is available [here](http://tucfa.ca/2015/12/10/public-financials-update/). This information is publicly accessible on the [CRA website for charities and giving][CRA].
+As noted [previously](http://tucfa.ca/2015/12/10/public-financials-update/), Tyndale University College & Seminary and the Tyndale Foundation are required to file information returns with the the Canada Revenue Agency every year. Below are the Updated numbers as of April 30, 2017 (this post will be updated once the 2018 information is available). Collected data for 2012–2015 is available [here](http://tucfa.ca/2015/12/10/public-financials-update/). This information is publicly accessible on the [CRA website for charities and giving][CRA].
 
 [CRA]: http://www.cra-arc.gc.ca/chrts-gvng/
 
@@ -37,8 +37,7 @@ As we pointed out [previously](http://tucfa.ca/2015/12/10/public-financials-upda
 | ---$120,000--$159,999                       | 2                 | 2                 | 2                 |                   |
 | ---$80,000--$119,999                        | 8                 | 8                 | 8                 |                   |
 | ---$40,000--$79,999                         |                   |                   |                   |                   |
-| ---Less than $40,000                        |                   |                   |                   |                   |
-| ------------------------------------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| ---Less than $40,000                        |                   |                   |                   |                   
 
 [1]: http://www.cra-arc.gc.ca/ebci/haip/srch/t3010form22QuickView-eng.action?b=107796880RR0001&fpe=2015-04-30
 [2]: http://www.cra-arc.gc.ca/ebci/haip/srch/t3010form22QuickView-eng.action?b=107796880RR0001&fpe=2016-04-30
