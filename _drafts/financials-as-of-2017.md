@@ -4,7 +4,7 @@ title: "Tyndale’s 2017 Public Financial Information"
 date: 15 April 2018
 ---
 
-As we pointed out (previously)[http://tucfa.ca/2015/12/10/public-financials-update/], Tyndale University College & Seminary and the Tyndale Foundation are required to file information returns with the the Canada Revenue Agency every year. Below are the Updated numbers as of April 30, 2017 (this post will be updated once the 2018 information is available). Collected data for 2012–2015 is available (here)[http://tucfa.ca/2015/12/10/public-financials-update/]. This information is publicly accessible on the [CRA website for charities and giving][CRA].
+As we pointed out [previously](http://tucfa.ca/2015/12/10/public-financials-update/), Tyndale University College & Seminary and the Tyndale Foundation are required to file information returns with the the Canada Revenue Agency every year. Below are the Updated numbers as of April 30, 2017 (this post will be updated once the 2018 information is available). Collected data for 2012–2015 is available (here)[http://tucfa.ca/2015/12/10/public-financials-update/]. This information is publicly accessible on the [CRA website for charities and giving][CRA].
 
 [CRA]: http://www.cra-arc.gc.ca/chrts-gvng/
 
