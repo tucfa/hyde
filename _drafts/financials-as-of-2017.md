@@ -54,7 +54,7 @@ As noted [previously](http://tucfa.ca/2015/12/10/public-financials-update/), Tyn
 | Gifts from other charities                  | $3,030,009 (35%) | $2,211,020 (xx%) | $1,566,886 (32%) |                  |
 | Government funding                          | $0 (0%)          | $0 (0%)          | $0 (0%)          |                  |
 | All other revenue                           | $1,280,862 (15%) | $919,925 (x%)    | $1,109,279 (23%) |                  |
-| **Total revenue**                           | **$8,368,1138**  | **$5,962,920**   | **$4,915,555**   |                  |
+| **Total revenue**                           | **$8,368,113**   | **$5,962,920**   | **$4,915,555**   |                  |
 |                                             |                  |                  |                  |                  |
 | **Expenses:**                               |                  |                  |                  |                  |
 | Charitable program                          | $0 (0%)          | $0 (0%)          | $0 (0%)          |                  |
