@@ -10,33 +10,33 @@ As noted [previously](http://tucfa.ca/2015/12/10/public-financials-update/), Tyn
 
 ## Tyndale University College & Seminary
 
-|                                             | **[2015][1]**     | **[2016][2]**     | **[2017][3]**     | **[2018][4]**     |
-| ------------------------------------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| **Revenue:**                                |                   |                   |                   |                   |
-| Receipted donations                         | $5,906 (0%)       | $2,016 (0%)       | $903 (0%)         |                   |
-| Non-receipted donations                     | $0 (0%)           | $0 (0%)           | $0 (0%)           |                    |
-| Gifts from other charities                  | $5,062,769 (25%)  | $7,006,995 (32%)  | $5,336,492 (25%)  |                    |
-| Government funding                          | $0 (0%)           | $0 (0%)           | $0 (0%)           |                    |
-| All other revenue                           | $14,867,626 (75%) | $14,610,491 (68%) | $16,295,968 (75%) |                    |
-| **Total revenue**                           | **$19,936,3015**  | **$21,619,502**   | **$21,633,363**   |                   |
-|                                             |                   |                   |                   |                   |
-| **Expenses:**                               |                   |                   |                   |                   |
-| Charitable program                          | $16,000,998 (78%) | $15,150,210 (71%) | $14,691,592 (69%) |                    |
-| Management and administration               | $4,542,627 (22%)  | $6,322,701 (29%)  | $6,450,475 (31%)  |                   |
-| Fundraising                                 | $0 (0%)           | $0 (0%)           | $0 (0%)           |                    |
-| Political activities                        | $0 (0%)           | $0 (0%)           | $0 (0%)           |                   |
-| Gifts to other registered charities         | $0 (0%)           | $0 (0%)           | $0 (0%)           |                    |
+|                                             | **[2015][1]**     | **[2016][2]**     | **[2017][3]**     | **[2018][4]**     
+| ------------------------------------------- | ----------------- | ----------------- | ----------------- | -----------------|
+| **Revenue:**                                |                   |                   |                   |                   
+| Receipted donations                         | $5,906 (0%)       | $2,016 (0%)       | $903 (0%)         |                   
+| Non-receipted donations                     | $0 (0%)           | $0 (0%)           | $0 (0%)           |                    
+| Gifts from other charities                  | $5,062,769 (25%)  | $7,006,995 (32%)  | $5,336,492 (25%)  |                    
+| Government funding                          | $0 (0%)           | $0 (0%)           | $0 (0%)           |                    
+| All other revenue                           | $14,867,626 (75%) | $14,610,491 (68%) | $16,295,968 (75%) |                    
+| **Total revenue**                           | **$19,936,3015**  | **$21,619,502**   | **$21,633,363**   |                   
+|                                             |                   |                   |                   |                   
+| **Expenses:**                               |                   |                   |                   |                   
+| Charitable program                          | $16,000,998 (78%) | $15,150,210 (71%) | $14,691,592 (69%) |                    
+| Management and administration               | $4,542,627 (22%)  | $6,322,701 (29%)  | $6,450,475 (31%)  |                   
+| Fundraising                                 | $0 (0%)           | $0 (0%)           | $0 (0%)           |                    
+| Political activities                        | $0 (0%)           | $0 (0%)           | $0 (0%)           |                   
+| Gifts to other registered charities         | $0 (0%)           | $0 (0%)           | $0 (0%)           |                    
 | Other                                       | $0 (0%)           | $0 (0%)           | $0 (0%)           |                     |
-| **Total expenses**                          | **$20,543,625**   | **$21,472,911**   | **$21,142,067**   |                    |
-|                                             |                   |                   |                   |                   |
-| **Total compensation** for all positions    | **$11,128,802**   | **$10,719,914**   | **$10,036,513**   |                   |
-| ---Full-time employees                      | 142               | 127               | 116               |                   |
-| ---Part-time employees                      | 100               | 77                | 92                |                   |
-| Professional and consulting fees            | $794,177          | $1,073,217        | $1,179,444        |                   |
-| Ten highest compensated full-time positions |                   |                   |                   |                   |
-| ---$120,000--$159,999                       | 2                 | 2                 | 2                 |                   |
-| ---$80,000--$119,999                        | 8                 | 8                 | 8                 |                   |
-| ---$40,000--$79,999                         |                   |                   |                   |                   |
+| **Total expenses**                          | **$20,543,625**   | **$21,472,911**   | **$21,142,067**   |                    
+|                                             |                   |                   |                   |                   
+| **Total compensation** for all positions    | **$11,128,802**   | **$10,719,914**   | **$10,036,513**   |                   
+| ---Full-time employees                      | 142               | 127               | 116               |                   
+| ---Part-time employees                      | 100               | 77                | 92                |                   
+| Professional and consulting fees            | $794,177          | $1,073,217        | $1,179,444        |                   
+| Ten highest compensated full-time positions |                   |                   |                   |                   
+| ---$120,000--$159,999                       | 2                 | 2                 | 2                 |                   
+| ---$80,000--$119,999                        | 8                 | 8                 | 8                 |                   
+| ---$40,000--$79,999                         |                   |                   |                   |                   
 | ---Less than $40,000                        |                   |                   |                   |                   
 
 [1]: http://www.cra-arc.gc.ca/ebci/haip/srch/t3010form22QuickView-eng.action?b=107796880RR0001&fpe=2015-04-30
