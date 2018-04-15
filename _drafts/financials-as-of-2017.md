@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tyndale’s 2017 Public Financial Information"
-date: 14 April 2018
+date: 15 April 2018
 ---
 
-As we pointed out (previously)[http://tucfa.ca/2015/12/10/public-financials-update/], Tyndale University College & Seminary and the Tyndale Foundation are required to file information returns with the the Canada Revenue Agency every year. Below are the Updated numbers as of 2017. Collected data for 2012–2015 is available (here)[http://tucfa.ca/2015/12/10/public-financials-update/]. This information is publicly accessible on the [CRA website for charities and giving][CRA].
+As we pointed out (previously)[http://tucfa.ca/2015/12/10/public-financials-update/], Tyndale University College & Seminary and the Tyndale Foundation are required to file information returns with the the Canada Revenue Agency every year. Below are the Updated numbers as of April 30, 2017 (this post will be updated once the 2018 information is available). Collected data for 2012–2015 is available (here)[http://tucfa.ca/2015/12/10/public-financials-update/]. This information is publicly accessible on the [CRA website for charities and giving][CRA].
 
 [CRA]: http://www.cra-arc.gc.ca/chrts-gvng/
 
@@ -23,10 +23,10 @@ As we pointed out (previously)[http://tucfa.ca/2015/12/10/public-financials-upda
 | **Expenses:**                               |                   |                   |                   |                   |
 | Charitable program                          | $16,000,998 (78%) | $15,150,210 (71%) | $14,691,592 (69%) |                    |
 | Management and administration               | $4,542,627 (22%)  | $6,322,701 (29%)  | $6,450,475 (31%)  |                   |
-| Fundraising                                 | $0 (0%)           | $0 (0%)           | $0 (0%)           | $0 (0%)           |
-| Political activities                        | $0 (0%)           | $0 (0%)           | $0 (0%)           | $0 (0%)           |
-| Gifts to other registered charities         | $0 (0%)           | $0 (0%)           | $0 (0%)           | $0 (0%)           |
-| Other                                       | $0 (0%)           | $0 (0%)           | $0 (0%)           | $0 (0%)           |
+| Fundraising                                 | $0 (0%)           | $0 (0%)           | $0 (0%)           |                    |
+| Political activities                        | $0 (0%)           | $0 (0%)           | $0 (0%)           |                   |
+| Gifts to other registered charities         | $0 (0%)           | $0 (0%)           | $0 (0%)           |                    |
+| Other                                       | $0 (0%)           | $0 (0%)           | $0 (0%)           |                     |
 | **Total expenses**                          | **$20,543,625**   | **$21,472,911**   | **$21,142,067**   |                    |
 |                                             |                   |                   |                   |                   |
 | **Total compensation** for all positions    | **$11,128,802**   | **$10,719,914**   | **$10,036,513**   |                   |
@@ -34,8 +34,8 @@ As we pointed out (previously)[http://tucfa.ca/2015/12/10/public-financials-upda
 | ---Part-time employees                      | 100               | 77                | 92                |                   |
 | Professional and consulting fees            | $794,177          | $1,073,217        | $1,179,444        |                   |
 | Ten highest compensated full-time positions |                   |                   |                   |                   |
-| ---$120,000--$159,999                       | 2                 | 2                 | 2                 | 2                 |
-| ---$80,000--$119,999                        | 8                 | 8                 | 8                 | 8                 |
+| ---$120,000--$159,999                       | 2                 | 2                 | 2                 |                   |
+| ---$80,000--$119,999                        | 8                 | 8                 | 8                 |                   |
 | ---$40,000--$79,999                         |                   |                   |                   |                   |
 | ---Less than $40,000                        |                   |                   |                   |                   |
 | ------------------------------------------- | ----------------- | ----------------- | ----------------- | ----------------- |
@@ -47,36 +47,36 @@ As we pointed out (previously)[http://tucfa.ca/2015/12/10/public-financials-upda
 
 ## The Tyndale Foundation
 
-|                                             | **[2014][5]**    | **[2015][6]**    | **[2016][7]**    | **[2017][8]**    |
+|                                             | **[2015][5]**    | **[2016][6]**    | **[2017][7]**    | **[2018][8]**    |
 | ------------------------------------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | **Revenue:**                                |                  |                  |                  |                  |
-| Receipted donations                         | $2,782,544 (30%) | $3,764,188 (45%) | $2,639,919 (43%) | $2,782,544 (30%) |
-| Non-receipted donations                     | $105,212 (1%)    | $77,760 (1%)     | $75,075 (1%)     | $105,212 (1%)    |
-| Gifts from other charities                  | $5,094,581 (55%) | $4,158,879 (50%) | $2,536,109 (41%) | $5,094,581 (55%) |
-| Government funding                          | $0 (0%)          | $0 (0%)          | $0 (0%)          | $0 (0%)          |
-| All other revenue                           | $1,363,881 (15%) | $275,496 (3%)    | $916,674 (15%)   | $1,363,881 (15%) |
-| **Total revenue**                           | **$9,346,218**   | **$8,276,323**   | **$6,167,777**   | **$9,346,218**   |
+| Receipted donations                         | $3,786,268 (44%) | $2,160,146 (xx%) | $2,144,894 (44%) |                  |
+| Non-receipted donations                     | $452,271 (5%)    | $1,149,616 (xx%) | $94,496 (2%)     |                  |
+| Gifts from other charities                  | $3,030,009 (35%) | $2,211,020 (xx%) | $1,566,886 (32%) |                  |
+| Government funding                          | $0 (0%)          | $0 (0%)          | $0 (0%)          |                  |
+| All other revenue                           | $1,280,862 (15%) | $919,925 (x%)    | $1,109,279 (23%) |                  |
+| **Total revenue**                           | **$8,368,1138**  | **$5,962,920**   | **$4,915,555**   |                  |
 |                                             |                  |                  |                  |                  |
 | **Expenses:**                               |                  |                  |                  |                  |
-| Charitable program                          | $0 (0%)          | $0 (0%)          | $0 (0%)          | $0 (0%)          |
-| Management and administration               | $0 (0%)          | $0 (0%)          | $0 (0%)          | $0 (0%)          |
-| Fundraising                                 | $660,206 (7%)    | $465,691 (6%)    | $563,624 (6%)    | $660,206 (7%)    |
-| Political activities                        | $0 (0%)          | $0 (0%)          | $0 (0%)          | $0 (0%)          |
-| Gifts to other registered charities         | $8,220,147 (93%) | $7,720,257 (94%) | $8,662,301 (94%) | $8,220,147 (93%) |
-| Other                                       | $0 (0%)          | $0 (0%)          | $0 (0%)          | $0 (0%)          |
-| **Total expenses**                          | **$8,880,353**   | **$8,185,948**   | **$9,225,925**   | **$8,880,353**   |
+| Charitable program                          | $0 (0%)          | $0 (0%)          | $0 (0%)          |                  |
+| Management and administration               | $0 (0%)          | $0 (0%)          | $0 (0%)          |                  |
+| Fundraising                                 | $0 (0%)          | $602,488 (10%)   | $557,995 (13%)   |                  |
+| Political activities                        | $0 (0%)          | $0 (0%)          | $0 (0%)          |                  |
+| Gifts to other registered charities         | $5,713,085 (86%) | $5,419,518 (90%) | $3,665,188 (87%) |                  |
+| Other                                       | $936,248 (14%)   | $0 (0%)          | $0 (0%)          |                  |
+| **Total expenses**                          | **$6,649,333**   | **$6,022,006**   | **$4,223,183**   |                  |
 |                                             |                  |                  |                  |                  |
-| **Total compensation** for all positions    | **$325,457**     | **$234,582**     | **$289,142**     | **$325,457**     |
-| ---Full-time employees                      | 6                | 4                | 6                | 6                |
-| ---Part-time employees                      | 3                | 8                | 3                | 3                |
-| Professional and consulting fees            | $152,383         | $90,010          | $90,521          | $152,383         |
+| **Total compensation** for all positions    | **$261,353**     | **$278,808**     | **$304,216**     |                  |
+| ---Full-time employees                      | 6                | 4                | 4                |                  |
+| ---Part-time employees                      | 3                | 3                | 3                |                  |
+| Professional and consulting fees            | $472,239         | $160,174         | $106,132         |                  |
 | Ten highest compensated full-time positions |                  |                  |                  |                  |
 | ---$120,000--$159,999                       |                  |                  |                  |                  |
-| ---$80,000--$119,999                        | 1                | 1                | 1                | 1                |
-| ---$40,000--$79,999                         | 4                | 1                | 4                | 4                |
-| ---Less than $40,000                        | 1                | 2                | 1                | 1                |
+| ---$80,000--$119,999                        | 1                |                  |                  |                  |
+| ---$40,000--$79,999                         | 4                | 3                | 3                |                  |
+| ---Less than $40,000                        | 1                | 1                | 1                |                  |
 
-[5]: http://www.cra-arc.gc.ca/ebci/haip/srch/t3010form22QuickView-eng.action?b=888915634RR0001&fpe=2014-04-30&r=http%3A%2F%2Fwww.cra-arc.gc.ca%3A80%2Febci%2Fhaip%2Fsrch%2Fadvancedsearchresult-eng.action%3Fn%3Dtyndale%2Bfoundation%26amp%3Bb%3D%26amp%3Bq%3D%26amp%3Bs%3Dregistered%26amp%3Bd%3D%26amp%3Be%3D%2B%26amp%3Bc%3D%26amp%3Bv%3D%2B%26amp%3Bo%3D%26amp%3Bz%3D%26amp%3Bg%3D%2B%26amp%3Bt%3D%2B%26amp%3By%3D%2B%26amp%3Bp%3D1
-
-
-
+[5]: http://www.cra-arc.gc.ca/ebci/haip/srch/t3010form22QuickView-eng.action?b=888915634RR0001&fpe=2015-04-30
+[6]: http://www.cra-arc.gc.ca/ebci/haip/srch/t3010form22QuickView-eng.action?b=888915634RR0001&fpe=2016-04-30
+[7]: http://www.cra-arc.gc.ca/ebci/haip/srch/t3010form22QuickView-eng.action?b=888915634RR0001&fpe=2017-04-30
+[8]: http://www.cra-arc.gc.ca/ebci/haip/srch/t3010form22QuickView-eng.action?b=888915634RR0001&fpe=2018-04-30
