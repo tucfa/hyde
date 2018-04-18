@@ -6,6 +6,10 @@ date: 15 April 2018
 
 As noted [previously](http://tucfa.ca/2015/12/10/public-financials-update/), Tyndale University College & Seminary and the Tyndale Foundation are required to file information returns with the the Canada Revenue Agency every year. Below are the Updated numbers as of April 30, 2017 (this post will be updated once the 2018 information is available). Collected data for 2012–2015 is available [here](http://tucfa.ca/2015/12/10/public-financials-update/). This information is publicly accessible on the [CRA website for charities and giving][CRA].
 
+One trend that may be worth watching for Tyndale University College & Seminary is that while both "Total revenue" and "Management and administration" expenses are trending up, "Total compensation" is trending down.
+
+Since almost all donations to Tyndale go through the Tyndale Foundation, it is worth noting that the Foundation's "Total revenue" is down 41% from 2015.
+
 [CRA]: http://www.cra-arc.gc.ca/chrts-gvng/
 
 ## Tyndale University College & Seminary
