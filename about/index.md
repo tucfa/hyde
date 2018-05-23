@@ -14,7 +14,15 @@ title: About
 * To deal with items of common interest to faculty members relating to the University College or to the broader interests of the academic community;
 * To encourage cooperation between the teaching faculty of this University College and the teaching faculty of other universities, colleges, and seminaries.
 
-<cite>— FA Constitution, approved 17 November 2005</cite>
+<cite>— FA Constitution, first approved 17 November 2005</cite>
+
+## 2018–2019 TUCFA Executive
+
+    President: Dr. Richard Davis
+    Vice President: Dr. Nancy Ross
+    Secretary/Treasurer: Dr. Anthony Hutchinson
+
+You can contact the TUCFA Executive by email at <fa@tucfa.ca>.
 
 ## Constitution
 
