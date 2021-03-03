@@ -18,9 +18,9 @@ title: About
 
 ## 2018–2019 TUCFA Executive
 
-* President: Dr. Richard Davis
-* Vice President: Dr. Nancy Ross
-* Secretary/Treasurer: Dr. Anthony Hutchinson
+* President: Dr. Nancy Ross
+* Vice President: Dr. Benjamin Reynolds
+* Secretary/Treasurer: Dr. Paul Franks
 
 You can contact the TUCFA Executive by email at <fa@tucfa.ca>.
 
