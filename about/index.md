@@ -16,7 +16,7 @@ title: About
 
 <cite>— FA Constitution, first approved 17 November 2005</cite>
 
-## 2018–2019 TUCFA Executive
+## 2020–2021 TUCFA Executive
 
 * President: Dr. Nancy Ross
 * Vice President: Dr. Benjamin Reynolds
