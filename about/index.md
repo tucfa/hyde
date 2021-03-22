@@ -26,7 +26,7 @@ You can contact the TUCFA Executive by email at <fa@tucfa.ca>.
 
 ## Constitution
 
-TUCFA's Constitution was originally approved on 17 November 2005, and last amended on 21 May 2015. Download the current [TUCFA Constitution (.pdf)](http://tucfa.ca/about/TUCFA_Constitution.pdf), or get the [source (.tex)](https://github.com/tucfa/tucfa.github.io/blob/master/about/TUCFA_Constitution.tex).
+TUCFA's Constitution was originally approved on 17 November 2005, and last amended on 4 March 2021. Download the current [TUCFA Constitution (.pdf)](http://tucfa.ca/about/TUCFA_Constitution.pdf), or get the [source (.tex)](https://github.com/tucfa/tucfa.github.io/blob/master/about/TUCFA_Constitution.tex).
 
 ## Website
 
